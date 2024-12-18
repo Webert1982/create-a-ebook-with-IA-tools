@@ -57,8 +57,8 @@ Leonardo.Ai：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `main`
-- ebook gerado durante em `main`
+- Imagem utilizada em `main`
+- Ebook gerado em `main`
 
 ## 🛠️ Execução
 
