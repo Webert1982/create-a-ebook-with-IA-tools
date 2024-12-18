@@ -41,30 +41,30 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema 7 Sacramentos, o ebook é do nicho de religião e o subnicho é catequese, o título deve ser épico e curto, e tenha uma temática Católica no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para e-book, com foco no Sacramento x {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Cite sua origem bíblica |
+| conteúdo | Faça um texto para e-book, com foco no Sacramento x {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Cite sua origem bíblica |
 
 
 Leonardo.Ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Make a image featuring at its center a white dove representing the holy spirit over a rock baptismal font, with crystal clear water inside. The background is a blue sky, with white clouds. --v 5.1 |
+| título | Make a image featuring at its center a white dove representing the holy spirit over a rock baptismal font, with crystal clear water inside. The background is a blue sky, with white clouds. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem gerada via Leonardo.Ai
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em `main`
+- ebook gerado durante em `main`
 
-## 🛠️ Instruções de execução
+## 🛠️ Execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizando os prompts acima nas ferramentas citadas, foi gerado o material base e a sua edição foi realizada no Power Point.
 
-## 👨‍💻 Expert
+## 👨‍💻 Criador
 
 <p>
     <img 
