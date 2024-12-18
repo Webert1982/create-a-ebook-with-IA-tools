@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Webert1982/create-a-ebook-with-IA-tools/blob/main/assets/ebook%20-%20sacramentos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Webert1982/create-a-ebook-with-IA-tools/blob/main/ebook%20-%20sacramentos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
